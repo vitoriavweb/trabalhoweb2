@@ -1,0 +1,51 @@
+body {
+    background-color: #062A39;
+    color: aliceblue;
+}
+
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+
+td {
+    font-size: 25px;
+    width: 650px;
+    color: aliceblue;
+}
+
+a:link {
+    color: aliceblue;
+}
+
+a:hover{
+    color: #4682B4;
+}
+
+div {
+    text-align: justify;
+    margin-left: 150px;
+    margin-right: 150px;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+
+p {
+    font-size: 23px;
+    text-indent: 2em;
+    font-family: 'Didot', serif;
+}
+
+b {
+    font-size: 30px;
+}
+
+img {
+    width: 400px;
+}
+
+figure img {
+    width: 550px;
+    margin: auto;
+    display: block;
+}
